@@ -1,4 +1,4 @@
-* ~[推荐系统学习指南](README.md)
+* ~ [推荐系统学习指南](README.md)
 
   * [第1章：推荐系统概览](01_Introduction_to_Recommendation_Systems.md)
   * [第2章：协同过滤 (Collaborative Filtering)](02_Collaborative_Filtering.md)

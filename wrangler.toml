@@ -1,6 +1,0 @@
-# wrangler.toml
-name = "https://snowyday7.github.io/RS_learning_guide/"       # 替换成您的网站名称
-compatibility_date = "2025-07-09" # 请使用一个近期的日期
-
-[site]
-bucket = "./docs" # 指定包含您网站文件的目录
